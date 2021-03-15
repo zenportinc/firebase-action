@@ -1,9 +1,7 @@
 FROM node:12.18.1-alpine
 
 LABEL version="1.2.1"
-LABEL repository="https://github.com/w9jds/firebase-action"
-LABEL homepage="https://github.com/w9jds/firebase-action"
-LABEL maintainer="Jeremy Shore <w9jds@github.com>"
+LABEL maintainer="Zenport developer"
 
 LABEL com.github.actions.name="GitHub Action for Firebase"
 LABEL com.github.actions.description="Wraps the firebase-tools CLI to enable common commands."

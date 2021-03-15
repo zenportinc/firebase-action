@@ -1,9 +1,9 @@
 name: 'GitHub Action for Firebase'
-author: 'Jeremy Shore'
+author: 'Zenport developer'
 description: 'Wraps the firebase-tools CLI to enable common commands.'
 branding:
   icon: 'package'
   color: 'gray-dark'
 runs:
   using: 'docker'
-  image: 'docker://w9jds/firebase-action:latest'
+  image: 'docker://zenportzenzen/firebase-action:latest'
